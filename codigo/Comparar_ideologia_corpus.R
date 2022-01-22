@@ -2,7 +2,7 @@ library(tm)
 library(quanteda)
 library(readtext)
 #leemos archivos del directorio elegido
-textos <- readtext("~/Desktop/politica/corpus")
+textos <- readtext("~/Desktop/politica/datos/corpus2")
 cor_textos <- corpus(textos)
 summary(cor_textos, 4)
 #Grafico
