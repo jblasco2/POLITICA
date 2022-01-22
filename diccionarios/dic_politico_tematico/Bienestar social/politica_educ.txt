@@ -1,0 +1,43 @@
+X
+alumna
+alumno
+alumnos
+aprender
+aprendizaje
+aula
+aulas
+bachiller
+bachillerato
+colegiado
+currículo
+diploma
+doctorandos
+doctores
+educa*
+educación de adultos
+educación de personas adultas
+educación infantil
+educación primaria
+educación Secundaria Obligatoria
+educar
+enseñanza universitaria.
+enseñanzas artísticas
+enseñanzas de idiomas
+enseñanzas deportivas
+enseñar
+escuela
+eso
+estudiante
+formación profesional
+graduados
+instituto
+jardín de infancia
+matrícula
+postsecundaria
+pregrado
+programa de estudios
+reválida 
+selectividad
+universidad
+universitario
+vocacional

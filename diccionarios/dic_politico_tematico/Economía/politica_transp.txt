@@ -1,0 +1,70 @@
+X
+acera
+aéreo
+aeroflota
+aerolínea
+aeropuerto
+aparcamiento
+atasco de tráfico
+autobús
+autobús interurbano
+autobús público
+autobuses
+autobuses interurbanos
+automóvil
+autopista
+autopista 
+autopista
+autopista de peaje 
+autovía
+aviación
+barco
+bicicleta
+camino
+camión
+camión
+carga
+carreteras
+carril
+ciclos
+coche
+coches
+conductor 
+estacionamiento
+expreso
+ferris
+ferrocarril
+ferrocarril
+ferry
+flete
+furgoneta
+guardacostas
+industria automotriz
+licencia
+licencia de conducir
+licencia de conducir
+licencia de conducir
+límite de velocidad
+límite de velocidad 
+limusina
+limusina
+mantenimiento de puentes
+megabus
+mercncías
+metro
+peatón
+permiso de conducir
+precio de congestión
+puerto
+seguridad aérea
+servicio aéreo
+taxi
+tráfico aéreo
+tránsito masivo
+transporte
+transporte público
+tranvía
+trasatlántico
+vehículo
+viajes
+viajes aéreos
