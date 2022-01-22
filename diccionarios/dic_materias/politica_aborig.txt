@@ -1,0 +1,54 @@
+x
+1 aboriginal
+2 algonquin
+3 amerindian
+4 anishinaabe
+5 assiniboine
+6 beothuk
+7 cayuga
+8 chipewyan
+9 comos
+10 cowichan
+11 cree
+12 dunneze
+13 first nation
+14 first people
+15 gwich'in
+16 haida
+17 huron
+18 indian act
+19 indian affair
+20 innu
+21 inuit
+22 inuk
+23 inuktitut
+24 iroquois
+25 lenape
+26 maliseet
+27 metis
+28 mi'kmaq
+29 mohawk
+30 munsee
+31 na-dene
+32 native american
+33 native affair
+34 odawa
+35 ojibwa
+36 ojibwe
+37 oji-cree
+38 oneida
+39 onondaga
+40 passamaquoddy
+41 potawatomi
+42 sahtu
+43 salish
+44 seneca
+45 shuswap
+46 squamish
+47 tagish
+48 tli cho
+49 tlingit
+50 tuscarora
+51 tutchone
+52 wyandot
+53 yellowknives
