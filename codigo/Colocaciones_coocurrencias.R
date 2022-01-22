@@ -3,7 +3,7 @@
 ####################################################################
 
 #ESTABLECEMOS DIRECTORIO
-setwd("~/Desktop/politica/corpus2")
+setwd("~/Desktop/politica/corpus3")
 library(tidyverse)
 library(tidytext)
 
